@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Maxsafer
 - 👀 I’m interested in programming, graphic design, music production, and digital synthesis.
-- 🌱 I’m currently learning Microservices.
-- 💞️ I’m looking to collaborate on any fun projects!
 - 📫 How to reach me maximilianosapien@gmail.com and linkedin.com/in/max-saf
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxsafer&show_icons=true&locale=en&layout=compact" alt="maxsafer" /></p>
